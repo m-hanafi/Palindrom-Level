@@ -1,0 +1,15 @@
+D:\C#\LeetCode\Palindrom_Level\bin\Debug\net6.0\Palindrom_Level.exe
+D:\C#\LeetCode\Palindrom_Level\bin\Debug\net6.0\Palindrom_Level.deps.json
+D:\C#\LeetCode\Palindrom_Level\bin\Debug\net6.0\Palindrom_Level.runtimeconfig.json
+D:\C#\LeetCode\Palindrom_Level\bin\Debug\net6.0\Palindrom_Level.dll
+D:\C#\LeetCode\Palindrom_Level\bin\Debug\net6.0\Palindrom_Level.pdb
+D:\C#\LeetCode\Palindrom_Level\obj\Debug\net6.0\Palindrom_Level.csproj.AssemblyReference.cache
+D:\C#\LeetCode\Palindrom_Level\obj\Debug\net6.0\Palindrom_Level.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\LeetCode\Palindrom_Level\obj\Debug\net6.0\Palindrom_Level.AssemblyInfoInputs.cache
+D:\C#\LeetCode\Palindrom_Level\obj\Debug\net6.0\Palindrom_Level.AssemblyInfo.cs
+D:\C#\LeetCode\Palindrom_Level\obj\Debug\net6.0\Palindrom_Level.csproj.CoreCompileInputs.cache
+D:\C#\LeetCode\Palindrom_Level\obj\Debug\net6.0\Palindrom_Level.dll
+D:\C#\LeetCode\Palindrom_Level\obj\Debug\net6.0\refint\Palindrom_Level.dll
+D:\C#\LeetCode\Palindrom_Level\obj\Debug\net6.0\Palindrom_Level.pdb
+D:\C#\LeetCode\Palindrom_Level\obj\Debug\net6.0\Palindrom_Level.genruntimeconfig.cache
+D:\C#\LeetCode\Palindrom_Level\obj\Debug\net6.0\ref\Palindrom_Level.dll
