@@ -8,7 +8,7 @@ namespace Palindrom_Level
         static void Main(string[] args)
         {
             Console.WriteLine("Enter text:");
-            string x = Console.ReadLine();
+            string x = Console.ReadLine(); //get text from user input.
             int res = Palindrom(x);
             Console.WriteLine($"Palindrom level:{res}");
         }
